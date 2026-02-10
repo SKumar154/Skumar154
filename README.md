@@ -1,27 +1,17 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=
-      Hi+👋,+I'm+Sarvesh+Kumar;
-      Data+Analyst;
-      SQL+Developer;
-      Business+Analyst;
-      BI+Developer;
-      Product+Analyst;
-      Analytics+Engineer;
-      Turning+Data+into+Business+Insights+📊"
-      alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Sarvesh+Kumar;Data+Analyst;SQL+Developer;Business+Analyst;BI+Developer;Product+Analyst;Analytics+Engineer;Turning+Data+into+Business+Insights+📊" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ---
 
 ## 🌟 About Me  
 - 🎓 **B.Tech CSE Student** 
-- 📊 Data Analyst Intern @ **Psyliq** (Remote)  
+- 📊 Data Analyst Intern @ **Psyliq.** (Remote)  
 - 🔍 Strong in **SQL, Power BI, Python & Data Analysis**  
 - 💡 Love transforming raw data into **clear, actionable business insights**
 
@@ -51,25 +41,55 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br>Python</td>
-      <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/><br>MySQL</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/><br>Power BI</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/><br>Pandas</td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/><br>NumPy</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/><br>Matplotlib</td>
-      <td align="center"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/><br>Seaborn</td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55"/><br>Java
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/><br>SQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=excel" width="55"/><br>Excel
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>JavaScript
+      </td>
     </tr>
+
     <tr>
-      <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55"/><br>Git</td>
-      <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br>GitHub</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=intellijidea" width="55"/><br>IntelliJ</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="55"/><br>PyCharm</td>
-      <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="55"/><br>AWS</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>Vercel</td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/><br>Pandas
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55"/><br>NumPy
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/><br>Matplotlib
+      </td>
+      <td align="center">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55"/><br>Seaborn
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55"/><br>Git
+      </td>
+      <td align="center">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/><br>GitHub
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,idea" width="55"/><br>VS Code · IntelliJ
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 ---
