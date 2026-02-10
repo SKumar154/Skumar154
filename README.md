@@ -42,7 +42,7 @@
       <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br><b>Python</b></td>
       <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="60"/><br><b>Java</b></td>
       <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br><b>SQL</b></td>
-      <td><img src="https://skillicons.dev/icons?i=excel" width="60"/><br><b>Excel</b></td>
+      <td><img src="[https://skillicons.dev/icons?i=excel](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg)" width="60"/><br><b>Excel</b></td>
       <td><img src="https://skillicons.dev/icons?i=html" width="60"/><br><b>HTML</b></td>
       <td><img src="https://skillicons.dev/icons?i=css" width="60"/><br><b>CSS</b></td>
       <td><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><b>JavaScript</b></td>
